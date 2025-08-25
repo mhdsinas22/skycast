@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:skycast/screens/wheather_screen.dart';
+import 'package:skycast/screens/hourely_foreCastItem.dart';
 
 void main() {
   runApp(Myapp());
